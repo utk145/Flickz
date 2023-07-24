@@ -16,5 +16,7 @@ Start exploring movies like never before with Flickz! 🎬🍿
 ```
     
 ## Demo
-
+<p align="start">
+  <img src="https://github.com/utk145/Flickz-app/assets/122993091/0e9690d7-2306-4427-a793-d1960da9fdca" alt="qr-code" width="300">
+</p>
 
